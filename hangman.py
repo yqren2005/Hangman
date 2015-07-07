@@ -1,4 +1,5 @@
 # Hangman game
+# Created by: Yuqing Ren
 
 import random
 import string
